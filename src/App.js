@@ -1,5 +1,7 @@
 
 import { Button, Card, Container, Form, Nav, Navbar, NavDropdown, } from "react-bootstrap";
+import './App.css';
+
 
 
 function App() {
